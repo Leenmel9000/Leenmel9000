@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Leenmel+Linde!;" />
 </h1>
 
-<h3 align="center">Hello! My name is Leenmel, and I have recently embarked on an exciting journey into the world of data science. With a background in Chemical Engineering, I’ve always been fascinated by how data-driven insights can influence decision-making and drive innovation. 🇨🇦</h3>
+<h3 align="center">I'm Leenmel from SG have recently embarked on an exciting journey into the world of data science. With a background in Chemical Engineering, I’ve always been fascinated by how data-driven insights can influence decision-making and drive innovation </h3>
 
 <br/>
 
