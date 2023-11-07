@@ -14,7 +14,7 @@
  
  💬 Ask me about **anything**
 
- ⚡ Fun fact: **A "hemiola" is a musical pattern in which two bars in triple time (like 3/4) are articulated as if they were three bars in duple time (like 6/8). It’s a rhythmic device used to create a feeling of syncopation and surprise**
+ ⚡ Fun fact: **A "hemiola" is a musical pattern in which two bars in triple time (like 3/4) are articulated as if they were three bars in duple time (like 6/8). It’s a rhythmic device used to create a feeling of syncopation and surprise.**
  
  </div>
  
