@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 Science, Engineering, Technology and Music
+ 🔭 Science, Engineering, Technology & Music
  
- 🌱 I’m currently working on **GCP and MySQL**
+ 🌱 I’m currently working on **GCP, SQL & Python**
  
  💬 Ask me about **anything**
 
