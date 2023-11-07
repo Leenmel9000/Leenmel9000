@@ -10,10 +10,10 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **my proficiency in scripting and performing data analysis in Python and in using Business Intelligence tools in Tableau**
+ 🔭 Science, Engineering, Technology and Music
  
- 🌱 I’m currently learning **GCP, MongoDB, SQL and Tensorflow**
-
+ 🌱 I’m currently working on **GCP and MySQL**
+ 
  💬 Ask me about **anything**
 
  ⚡ Fun fact: **A "hemiola" is a musical pattern in which two bars in triple time (like 3/4) are articulated as if they were three bars in duple time (like 6/8). It’s a rhythmic device used to create a feeling of syncopation and surprise**
