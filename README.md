@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Leenmel9000.Leenmel9000" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Leenmel+Linde!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Welcome+To+My+Github!;" />
 </h1>
 
 <h3 align="center">NUS Chemical Engineering grad. I’ve always been fascinated by how data-driven insights can influence decision-making and drive innovation and I found Github to be extremely helpful. </h3>
