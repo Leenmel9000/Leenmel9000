@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently working on **GCP, SQL & Python**
+ 🌱 I’m currently working on **GCP, SQL, Python & Math Rock**
  
  💬 Ask me about **anything**
 
