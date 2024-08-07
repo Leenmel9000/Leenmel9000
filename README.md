@@ -4,17 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Welcome+To+My+Github!;" />
 </h1>
 
-<h3 align="center">NUS Chemical Engineering grad. I’ve always been fascinated by how data-driven insights can influence decision-making and drive innovation and I found Github to be extremely helpful. </h3>
-
 <br/>
 
 <div align="center">
- 
- 🌱 I’m currently working on **GCP, SQL, Python & Math Rock**
- 
- 💬 Ask me about **anything**
-
- ⚡ Fun fact: **A "hemiola" is a musical pattern in which two bars in triple time (like 3/4) are articulated as if they were three bars in duple time (like 6/8). It’s a rhythmic device used to create a feeling of syncopation and surprise.**
  
  </div>
  
@@ -32,7 +24,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,mysql" /><br>
 </div>
 
 <br/>
